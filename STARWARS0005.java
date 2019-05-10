@@ -9,12 +9,12 @@ public class STARWARS0005 {
 		System.out.println("INPUT");
 		int a = sc.nextInt();
 		int b = sc.nextInt();
-		
+		System.out.println("OUTPUT");
 		for (int i = 0; i <a;i++){
 		for(int j=0;j<b;j++){
-			System.out.print("x");
+			System.out.print("X");
 		}
-		System.out.println();
+		System.out.println("");
 		}	
 	}
 }

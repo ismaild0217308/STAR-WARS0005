@@ -12,7 +12,7 @@ public class STARWARS0005 {
 		System.out.println("OUTPUT");
 		for (int i = 0; i <a;i++){
 		for(int j=0;j<b;j++){
-			System.out.print("X");
+			System.out.print(" X ");
 		}
 		System.out.println("");
 		}	
